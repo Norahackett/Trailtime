@@ -1,0 +1,20 @@
+{
+  "trails": [
+    {
+      "name": "Barrow way",
+      "latitude": 60,
+      "longitude": 180,
+      "description": "moderate",
+      "_id": "0b08e6c8-58d8-4011-8c2b-e9799e9089a0",
+      "traillistid": "35202152-bc39-4410-8939-27e31a7fc98c"
+    },
+    {
+      "name": "Brandon Submit",
+      "latitude": 12,
+      "longitude": 12,
+      "description": "hard",
+      "_id": "3f8f49d1-970c-4f41-a512-00d7a66438da",
+      "traillistid": "81d9eb87-f665-42f3-8f44-0359ada7bfb1"
+    }
+  ]
+}
